@@ -36,7 +36,7 @@ vi test.txt
 git status
 
 * local repository staging
-git add test.txt  (test.txt 파일 add 하기)
+git add test.txt  (test.txt 파일만 add 하기)
 git add .  (모든 파일 add 하기)
 
 * local repository commit
